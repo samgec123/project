@@ -2,7 +2,7 @@
    "projects":[
       {
          "id":"acer123",
-         "details":{
+         "value":{
             "projectPlMCodeName":"",
             "projectPlMBrandName":"",
             "projectPlMCategory":"",
@@ -13,7 +13,7 @@
       },
       {
          "id":"acer456",
-         "details":{
+         "value":{
             "projectPlMCodeName":"",
             "projectPlMBrandName":"",
             "projectPlMCategory":"",
@@ -24,7 +24,7 @@
       },
       {
          "id":"acer789",
-         "details":{
+         "value":{
             "projectPlMCodeName":"",
             "projectPlMBrandName":"",
             "projectPlMCategory":"",
@@ -35,7 +35,7 @@
       },
       {
          "id":"plm123",
-         "details":{
+         "value":{
             "projectPlMCodeName":"",
             "projectPlMBrandName":"",
             "projectPlMCategory":"",
@@ -46,7 +46,7 @@
       },
       {
          "id":"plm456",
-         "details":{
+         "value":{
             "projectPlMCodeName":"",
             "projectPlMBrandName":"",
             "projectPlMCategory":"",
@@ -57,7 +57,7 @@
       },
       {
          "id":"plm789",
-         "details":{
+         "value":{
             "projectPlMCodeName":"",
             "projectPlMBrandName":"",
             "projectPlMCategory":"",
