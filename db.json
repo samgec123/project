@@ -1,70 +1,68 @@
-{
-   "projects":[
-      {
-         "plmId":"acer123",
-         "details":{
-            "projectPlMCodeName":"",
-            "projectPlMBrandName":"",
-            "projectPlMCategory":"",
-            "projectPlMLineClass":"",
-            "projectPlMModelNumber":"",
-            "projectPlMFcsDate":""
-         }
-      },
-      {
-         "plmId":"acer456",
-         "details":{
-            "projectPlMCodeName":"",
-            "projectPlMBrandName":"",
-            "projectPlMCategory":"",
-            "projectPlMLineClass":"",
-            "projectPlMModelNumber":"",
-            "projectPlMFcsDate":""
-         }
-      },
-      {
-         "plmId":"acer789",
-         "details":{
-            "projectPlMCodeName":"",
-            "projectPlMBrandName":"",
-            "projectPlMCategory":"",
-            "projectPlMLineClass":"",
-            "projectPlMModelNumber":"",
-            "projectPlMFcsDate":""
-         }
-      },
-      {
-         "plmId":"plm123",
-         "details":{
-            "projectPlMCodeName":"",
-            "projectPlMBrandName":"",
-            "projectPlMCategory":"",
-            "projectPlMLineClass":"",
-            "projectPlMModelNumber":"",
-            "projectPlMFcsDate":""
-         }
-      },
-      {
-         "plmId":"plm456",
-         "details":{
-            "projectPlMCodeName":"",
-            "projectPlMBrandName":"",
-            "projectPlMCategory":"",
-            "projectPlMLineClass":"",
-            "projectPlMModelNumber":"",
-            "projectPlMFcsDate":""
-         }
-      },
-      {
-         "plmId":"plm789",
-         "details":{
-            "projectPlMCodeName":"",
-            "projectPlMBrandName":"",
-            "projectPlMCategory":"",
-            "projectPlMLineClass":"",
-            "projectPlMModelNumber":"",
-            "projectPlMFcsDate":""
-         }
-      }
-   ]
-}
+[
+  {
+    "id": "acer123",
+    "details": {
+      "projectPlMCodeName": "",
+      "projectPlMBrandName": "",
+      "projectPlMCategory": "",
+      "projectPlMLineClass": "",
+      "projectPlMModelNumber": "",
+      "projectPlMFcsDate": ""
+    }
+  },
+  {
+    "id": "acer456",
+    "details": {
+      "projectPlMCodeName": "",
+      "projectPlMBrandName": "",
+      "projectPlMCategory": "",
+      "projectPlMLineClass": "",
+      "projectPlMModelNumber": "",
+      "projectPlMFcsDate": ""
+    }
+  },
+  {
+    "id": "acer789",
+    "details": {
+      "projectPlMCodeName": "",
+      "projectPlMBrandName": "",
+      "projectPlMCategory": "",
+      "projectPlMLineClass": "",
+      "projectPlMModelNumber": "",
+      "projectPlMFcsDate": ""
+    }
+  },
+  {
+    "id": "plm123",
+    "details": {
+      "projectPlMCodeName": "",
+      "projectPlMBrandName": "",
+      "projectPlMCategory": "",
+      "projectPlMLineClass": "",
+      "projectPlMModelNumber": "",
+      "projectPlMFcsDate": ""
+    }
+  },
+  {
+    "id": "plm456",
+    "details": {
+      "projectPlMCodeName": "",
+      "projectPlMBrandName": "",
+      "projectPlMCategory": "",
+      "projectPlMLineClass": "",
+      "projectPlMModelNumber": "",
+      "projectPlMFcsDate": ""
+    }
+  },
+  {
+    "id": "plm789",
+    "details": {
+      "projectPlMCodeName": "",
+      "projectPlMBrandName": "",
+      "projectPlMCategory": "",
+      "projectPlMLineClass": "",
+      "projectPlMModelNumber": "",
+      "projectPlMFcsDate": ""
+    }
+  }
+]
